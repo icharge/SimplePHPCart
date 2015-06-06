@@ -9,9 +9,9 @@ Load and Call.
 - Easy to modification
 
 **Warning** !
-This code is NOT compatible with PHP 5.2 or below. (Don't use with AppServ)
+This code is **NOT compatible** with PHP 5.2 or below. (Don't use with **AppServ**)
 Because problem about Session to store or load Class-Object on it.
-It will work fine on PHP 5.3+ (Recommend XAMPP)
+It will work fine on PHP 5.3+ (Recommend **XAMPP**)
 
 Opensource for everyone.
 Very thankful to put credit on your Project.
@@ -27,9 +27,9 @@ Very thankful to put credit on your Project.
 - ง่ายที่จะปรับแต่งเอง
 
 **คำเตือน** !
-โค้ดนี้ไม่สามารถใช้งานร่วมกับ PHP 5.2 หรือต่ำกว่า ได้  (โดยเฉพาะ AppServ)
+โค้ดนี้**ไม่สามารถใช้งานร่วมกับ PHP 5.2** หรือต่ำกว่า ได้  (โดยเฉพาะ **AppServ**)
 เพราะมันมีปัญหาเกี่ยวกับการ เก็บ วัตถุคลาส บน เซสชัน
-มันจะดีมากถ้าใช้บน PHP 5.3+  (แนะนำใช้ XAMPP)
+มันจะดีมากถ้าใช้บน PHP 5.3+  (แนะนำใช้ **XAMPP**)
 
 เปิดให้สำหรับทุกคน
 จะขอบคุณอย่างยิ่ง  หากแปะเครดิตบน โครงงานของคุณ
